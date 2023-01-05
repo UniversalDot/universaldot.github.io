@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>UDOT WIKI Blog</title>
+        <link>https://your-docusaurus-test-site.com/es/blog</link>
+        <description>UDOT WIKI Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>es</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://your-docusaurus-test-site.com/es/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Docusaurus Plushie]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Docusaurus Plushie" src="/es/assets/images/undraw_welcome_cats_thqn-dcdd2a2aaa0d42347b4469d2660ebe3d.png" width="1129" height="619" class="img_E7b_"></p><p>Welcome to our Blog. </p><p>Here we will share updates and news regarding UDOT.</p><p>Join us in Learning a Building a better future with WEB3.</p><p>For now, feel free to browse the documentation.</p><p>If you have any questions, please refer to our FAQ's section.</p>]]></content:encoded>
+            <category>welcome</category>
+            <category>information</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>
