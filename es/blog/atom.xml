@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/es/blog</id>
+    <title>UDOT WIKI Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/es/blog"/>
+    <subtitle>UDOT WIKI Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/es/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://your-docusaurus-test-site.com/es/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Docusaurus Plushie]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Docusaurus Plushie" src="/es/assets/images/undraw_welcome_cats_thqn-dcdd2a2aaa0d42347b4469d2660ebe3d.png" width="1129" height="619" class="img_E7b_"></p><p>Welcome to our Blog. </p><p>Here we will share updates and news regarding UDOT.</p><p>Join us in Learning a Building a better future with WEB3.</p><p>For now, feel free to browse the documentation.</p><p>If you have any questions, please refer to our FAQ's section.</p>]]></content>
+        <author>
+            <name>Igor Stojanov</name>
+            <uri>https://github.com/JosephKnecht-lab</uri>
+        </author>
+        <author>
+            <name>Slave Atanasov</name>
+            <uri>https://github.com/slaveatanasov</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+        <category label="information" term="information"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
